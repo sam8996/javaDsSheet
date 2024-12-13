@@ -1,7 +1,14 @@
 package javaDsSheet;
 
 public class index {
-    System.out.println("hii");
+    
+    public static void main(String[] args) {
+    
+
+        System.out.println("hii");
+
+}
+
     
     
 }
