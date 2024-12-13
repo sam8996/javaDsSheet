@@ -1,7 +1,7 @@
 package javaDsSheet;
 
 public class index {
-<<<<<<< HEAD
+
     
     public static void main(String[] args) {
     
@@ -10,12 +10,4 @@ public class index {
 
 }
 
-    
-=======
-    public static void main(String[] args) {
-        System.out.println("hii");
-    }
-
->>>>>>> b9e2062 (arrays)
-    
 }
